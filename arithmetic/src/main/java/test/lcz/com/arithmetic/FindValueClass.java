@@ -7,7 +7,6 @@ public class FindValueClass {
             {10, 14, 19, 21, 25}};
 
     public static void main(String[] args) {
-
         boolean result = findValue(arrays, 400);
         System.out.println("result  " + result);
     }
