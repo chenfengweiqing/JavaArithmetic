@@ -1,0 +1,901 @@
+[
+    {
+        "id": 103361,
+        "code": "17094517",
+        "productId": 6,
+        "sheftNo": "20190627T217",
+        "status": 3,
+        "operatingState": 0,
+        "createdAt": "2019-06-27T12:11:22.79",
+        "createdBy": 0,
+        "pickOrderItems": [
+            {
+                "id": 3758992,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A0008104300",
+                "colorNo": "9F93",
+                "quantity": 2,
+                "createdAt": "2019-06-27T12:11:26.033",
+                "createdBy": 1,
+                "pickOrderId": 103361
+            },
+            {
+                "id": 3758993,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2058100105",
+                "colorNo": "9H43",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:11:26.033",
+                "createdBy": 1,
+                "pickOrderId": 103361
+            },
+              {
+                            "id": 3758993,
+                            "regionId": 0,
+                            "tagAdress": 0,
+                            "partNo": "A2058100205",
+                            "colorNo": "1C36",
+                            "quantity": 1,
+                            "createdAt": "2019-06-27T12:11:26.033",
+                            "createdBy": 1,
+                            "pickOrderId": 103361
+                        },
+                          {
+                                        "id": 3758993,
+                                        "regionId": 0,
+                                        "tagAdress": 0,
+                                        "partNo": "A2058100105",
+                                        "colorNo": "1C36",
+                                        "quantity": 1,
+                                        "createdAt": "2019-06-27T12:11:26.033",
+                                        "createdBy": 1,
+                                        "pickOrderId": 103361
+                                    },
+            {
+                "id": 3758994,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2058100205",
+                "colorNo": "9H43",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:11:26.033",
+                "createdBy": 1,
+                "pickOrderId": 103361
+            },
+            {
+                "id": 3758995,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A1668100554",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:11:26.033",
+                "createdBy": 1,
+                "pickOrderId": 103361
+            },
+            {
+                "id": 3758996,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A1668100654",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:11:26.033",
+                "createdBy": 1,
+                "pickOrderId": 103361
+            },
+            {
+                "id": 3758997,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2468100754",
+                "colorNo": "9051",
+                "quantity": 2,
+                "createdAt": "2019-06-27T12:11:26.033",
+                "createdBy": 1,
+                "pickOrderId": 103361
+            },
+            {
+                "id": 3758998,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2048691308",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:11:26.033",
+                "createdBy": 1,
+                "pickOrderId": 103361
+            },
+            {
+                "id": 3758999,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2048691408",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:11:26.033",
+                "createdBy": 1,
+                "pickOrderId": 103361
+            },
+            {
+                "id": 3759000,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A0009060935",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:11:26.033",
+                "createdBy": 1,
+                "pickOrderId": 103361
+            },
+            {
+                "id": 3759001,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A0009061035",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:11:26.033",
+                "createdBy": 1,
+                "pickOrderId": 103361
+            }
+        ]
+    },
+    {
+        "id": 103362,
+        "code": "17008772",
+        "productId": 11,
+        "sheftNo": "20190627T218",
+        "status": 3,
+        "operatingState": 0,
+        "createdAt": "2019-06-27T12:12:31.83",
+        "createdBy": 0,
+        "pickOrderItems": [
+            {
+                "id": 3759056,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2228100954",
+                "colorNo": "8T92",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:12:35.067",
+                "createdBy": 1,
+                "pickOrderId": 103362
+            },
+            {
+                "id": 3759053,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2138105501",
+                "colorNo": "8U26",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:12:35.067",
+                "createdBy": 1,
+                "pickOrderId": 103362
+            },
+            {
+                "id": 3759054,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2138105601",
+                "colorNo": "8U26",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:12:35.067",
+                "createdBy": 1,
+                "pickOrderId": 103362
+            },
+            {
+                "id": 3759055,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A1668100054",
+                "colorNo": "8T92",
+                "quantity": 2,
+                "createdAt": "2019-06-27T12:12:35.067",
+                "createdBy": 1,
+                "pickOrderId": 103362
+            },
+            {
+                "id": 3759057,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2228101054",
+                "colorNo": "8T92",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:12:35.067",
+                "createdBy": 1,
+                "pickOrderId": 103362
+            },
+            {
+                "id": 3759058,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A0009065500",
+                "colorNo": "8T92",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:12:35.067",
+                "createdBy": 1,
+                "pickOrderId": 103362
+            },
+            {
+                "id": 3759059,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A0009065600",
+                "colorNo": "8T92",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:12:35.067",
+                "createdBy": 1,
+                "pickOrderId": 103362
+            }
+        ]
+    },
+    {
+        "id": 103363,
+        "code": "17094525",
+        "productId": 6,
+        "sheftNo": "20190627T219",
+        "status": 3,
+        "operatingState": 0,
+        "createdAt": "2019-06-27T12:14:25.9",
+        "createdBy": 0,
+        "pickOrderItems": [
+            {
+                "id": 3759112,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A0008104300",
+                "colorNo": "9F93",
+                "quantity": 2,
+                "createdAt": "2019-06-27T12:14:29.157",
+                "createdBy": 1,
+                "pickOrderId": 103363
+            },
+            {
+                "id": 3759113,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2058100105",
+                "colorNo": "9H43",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:14:29.157",
+                "createdBy": 1,
+                "pickOrderId": 103363
+            },
+            {
+                "id": 3759114,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2058100205",
+                "colorNo": "9H43",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:14:29.157",
+                "createdBy": 1,
+                "pickOrderId": 103363
+            },
+            {
+                "id": 3759115,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A1668100554",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:14:29.157",
+                "createdBy": 1,
+                "pickOrderId": 103363
+            },
+            {
+                "id": 3759116,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A1668100654",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:14:29.157",
+                "createdBy": 1,
+                "pickOrderId": 103363
+            },
+            {
+                "id": 3759117,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2468100754",
+                "colorNo": "9051",
+                "quantity": 2,
+                "createdAt": "2019-06-27T12:14:29.157",
+                "createdBy": 1,
+                "pickOrderId": 103363
+            },
+            {
+                "id": 3759118,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2048691308",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:14:29.157",
+                "createdBy": 1,
+                "pickOrderId": 103363
+            },
+            {
+                "id": 3759119,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2048691408",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:14:29.157",
+                "createdBy": 1,
+                "pickOrderId": 103363
+            },
+            {
+                "id": 3759120,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A0009060935",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:14:29.157",
+                "createdBy": 1,
+                "pickOrderId": 103363
+            },
+            {
+                "id": 3759121,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A0009061035",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:14:29.157",
+                "createdBy": 1,
+                "pickOrderId": 103363
+            }
+        ]
+    },
+    {
+        "id": 103364,
+        "code": "17094533",
+        "productId": 6,
+        "sheftNo": "20190627T220",
+        "status": 3,
+        "operatingState": 0,
+        "createdAt": "2019-06-27T12:15:26.137",
+        "createdBy": 0,
+        "pickOrderItems": [
+            {
+                "id": 3759174,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A0008104300",
+                "colorNo": "9F93",
+                "quantity": 2,
+                "createdAt": "2019-06-27T12:15:29.383",
+                "createdBy": 1,
+                "pickOrderId": 103364
+            },
+            {
+                "id": 3759175,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2058100105",
+                "colorNo": "9H43",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:15:29.383",
+                "createdBy": 1,
+                "pickOrderId": 103364
+            },
+            {
+                "id": 3759176,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2058100205",
+                "colorNo": "9H43",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:15:29.383",
+                "createdBy": 1,
+                "pickOrderId": 103364
+            },
+            {
+                "id": 3759177,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A1668100554",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:15:29.383",
+                "createdBy": 1,
+                "pickOrderId": 103364
+            },
+            {
+                "id": 3759178,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A1668100654",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:15:29.383",
+                "createdBy": 1,
+                "pickOrderId": 103364
+            },
+            {
+                "id": 3759179,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2468100754",
+                "colorNo": "9051",
+                "quantity": 2,
+                "createdAt": "2019-06-27T12:15:29.383",
+                "createdBy": 1,
+                "pickOrderId": 103364
+            },
+            {
+                "id": 3759180,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2048691308",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:15:29.383",
+                "createdBy": 1,
+                "pickOrderId": 103364
+            },
+            {
+                "id": 3759181,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2048691408",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:15:29.383",
+                "createdBy": 1,
+                "pickOrderId": 103364
+            },
+            {
+                "id": 3759182,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A0009060935",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:15:29.383",
+                "createdBy": 1,
+                "pickOrderId": 103364
+            },
+            {
+                "id": 3759183,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A0009061035",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:15:29.383",
+                "createdBy": 1,
+                "pickOrderId": 103364
+            }
+        ]
+    },
+    {
+        "id": 103365,
+        "code": "17008780",
+        "productId": 13,
+        "sheftNo": "20190627T221",
+        "status": 3,
+        "operatingState": 0,
+        "createdAt": "2019-06-27T12:17:28.937",
+        "createdBy": 0,
+        "pickOrderItems": [
+            {
+                "id": 3759235,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2138105501",
+                "colorNo": "8U26",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:17:32.197",
+                "createdBy": 1,
+                "pickOrderId": 103365
+            },
+            {
+                "id": 3759236,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2138105601",
+                "colorNo": "8U26",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:17:32.197",
+                "createdBy": 1,
+                "pickOrderId": 103365
+            },
+            {
+                "id": 3759237,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A1668100054",
+                "colorNo": "8T92",
+                "quantity": 2,
+                "createdAt": "2019-06-27T12:17:32.197",
+                "createdBy": 1,
+                "pickOrderId": 103365
+            },
+            {
+                "id": 3759238,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2228100954",
+                "colorNo": "8T92",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:17:32.197",
+                "createdBy": 1,
+                "pickOrderId": 103365
+            },
+            {
+                "id": 3759239,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2228101054",
+                "colorNo": "8T92",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:17:32.197",
+                "createdBy": 1,
+                "pickOrderId": 103365
+            },
+            {
+                "id": 3759240,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A0009065500",
+                "colorNo": "8T92",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:17:32.197",
+                "createdBy": 1,
+                "pickOrderId": 103365
+            },
+            {
+                "id": 3759241,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A0009065600",
+                "colorNo": "8T92",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:17:32.197",
+                "createdBy": 1,
+                "pickOrderId": 103365
+            }
+        ]
+    },
+    {
+        "id": 103366,
+        "code": "17094541",
+        "productId": 6,
+        "sheftNo": "20190627T222",
+        "status": 3,
+        "operatingState": 0,
+        "createdAt": "2019-06-27T12:18:49.857",
+        "createdBy": 0,
+        "pickOrderItems": [
+            {
+                "id": 3759294,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A0008104300",
+                "colorNo": "9F93",
+                "quantity": 2,
+                "createdAt": "2019-06-27T12:18:53.173",
+                "createdBy": 1,
+                "pickOrderId": 103366
+            },
+            {
+                "id": 3759295,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2058100105",
+                "colorNo": "9H43",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:18:53.173",
+                "createdBy": 1,
+                "pickOrderId": 103366
+            },
+            {
+                "id": 3759296,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2058100205",
+                "colorNo": "9H43",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:18:53.173",
+                "createdBy": 1,
+                "pickOrderId": 103366
+            },
+            {
+                "id": 3759297,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A1668100554",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:18:53.173",
+                "createdBy": 1,
+                "pickOrderId": 103366
+            },
+            {
+                "id": 3759298,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A1668100654",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:18:53.173",
+                "createdBy": 1,
+                "pickOrderId": 103366
+            },
+            {
+                "id": 3759299,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2468100754",
+                "colorNo": "9051",
+                "quantity": 2,
+                "createdAt": "2019-06-27T12:18:53.173",
+                "createdBy": 1,
+                "pickOrderId": 103366
+            },
+            {
+                "id": 3759300,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2048691308",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:18:53.173",
+                "createdBy": 1,
+                "pickOrderId": 103366
+            },
+            {
+                "id": 3759301,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2048691408",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:18:53.173",
+                "createdBy": 1,
+                "pickOrderId": 103366
+            },
+            {
+                "id": 3759302,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A0009060935",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:18:53.173",
+                "createdBy": 1,
+                "pickOrderId": 103366
+            },
+            {
+                "id": 3759303,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A0009061035",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:18:53.173",
+                "createdBy": 1,
+                "pickOrderId": 103366
+            }
+        ]
+    },
+    {
+        "id": 103367,
+        "code": "17094558",
+        "productId": 6,
+        "sheftNo": "20190627T223",
+        "status": 3,
+        "operatingState": 0,
+        "createdAt": "2019-06-27T12:19:46.98",
+        "createdBy": 0,
+        "pickOrderItems": [
+            {
+                "id": 3759356,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A0008104300",
+                "colorNo": "9F93",
+                "quantity": 2,
+                "createdAt": "2019-06-27T12:19:50.233",
+                "createdBy": 1,
+                "pickOrderId": 103367
+            },
+            {
+                "id": 3759357,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2058100105",
+                "colorNo": "9H43",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:19:50.233",
+                "createdBy": 1,
+                "pickOrderId": 103367
+            },
+            {
+                "id": 3759358,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2058100205",
+                "colorNo": "9H43",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:19:50.233",
+                "createdBy": 1,
+                "pickOrderId": 103367
+            },
+            {
+                "id": 3759359,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A1668100554",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:19:50.233",
+                "createdBy": 1,
+                "pickOrderId": 103367
+            },
+            {
+                "id": 3759360,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A1668100654",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:19:50.233",
+                "createdBy": 1,
+                "pickOrderId": 103367
+            },
+            {
+                "id": 3759361,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2468100754",
+                "colorNo": "9051",
+                "quantity": 2,
+                "createdAt": "2019-06-27T12:19:50.233",
+                "createdBy": 1,
+                "pickOrderId": 103367
+            },
+            {
+                "id": 3759362,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2048691308",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:19:50.233",
+                "createdBy": 1,
+                "pickOrderId": 103367
+            },
+            {
+                "id": 3759363,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2048691408",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:19:50.233",
+                "createdBy": 1,
+                "pickOrderId": 103367
+            },
+            {
+                "id": 3759364,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A0009060935",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:19:50.233",
+                "createdBy": 1,
+                "pickOrderId": 103367
+            },
+            {
+                "id": 3759365,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A0009061035",
+                "colorNo": "9051",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:19:50.233",
+                "createdBy": 1,
+                "pickOrderId": 103367
+            }
+        ]
+    },
+    {
+        "id": 103368,
+        "code": "17008798",
+        "productId": 11,
+        "sheftNo": "20190627T224",
+        "status": 3,
+        "operatingState": 0,
+        "createdAt": "2019-06-27T12:20:44.053",
+        "createdBy": 0,
+        "pickOrderItems": [
+            {
+                "id": 3759417,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2138105501",
+                "colorNo": "7M94",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:20:47.33",
+                "createdBy": 1,
+                "pickOrderId": 103368
+            },
+            {
+                "id": 3759418,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2138105601",
+                "colorNo": "7M94",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:20:47.33",
+                "createdBy": 1,
+                "pickOrderId": 103368
+            },
+            {
+                "id": 3759419,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A1668100054",
+                "colorNo": "7H52",
+                "quantity": 2,
+                "createdAt": "2019-06-27T12:20:47.33",
+                "createdBy": 1,
+                "pickOrderId": 103368
+            },
+            {
+                "id": 3759420,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2228100954",
+                "colorNo": "7H52",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:20:47.33",
+                "createdBy": 1,
+                "pickOrderId": 103368
+            },
+            {
+                "id": 3759421,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A2228101054",
+                "colorNo": "7H52",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:20:47.33",
+                "createdBy": 1,
+                "pickOrderId": 103368
+            },
+            {
+                "id": 3759422,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A0009065500",
+                "colorNo": "7H52",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:20:47.33",
+                "createdBy": 1,
+                "pickOrderId": 103368
+            },
+            {
+                "id": 3759423,
+                "regionId": 0,
+                "tagAdress": 0,
+                "partNo": "A0009065600",
+                "colorNo": "7H52",
+                "quantity": 1,
+                "createdAt": "2019-06-27T12:20:47.33",
+                "createdBy": 1,
+                "pickOrderId": 103368
+            }
+        ]
+    }
+]

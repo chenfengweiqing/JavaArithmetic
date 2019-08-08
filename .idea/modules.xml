@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaArithmetic.iml" filepath="$PROJECT_DIR$/JavaArithmetic.iml" />
       <module fileurl="file://$PROJECT_DIR$/arithmetic/arithmetic.iml" filepath="$PROJECT_DIR$/arithmetic/arithmetic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
     </modules>
   </component>
 </project>

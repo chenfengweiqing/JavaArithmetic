@@ -1,1 +1,1 @@
-include ':arithmetic'
+include ':arithmetic', ':test'

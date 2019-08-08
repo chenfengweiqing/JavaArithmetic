@@ -2,7 +2,10 @@ apply plugin: 'java-library'
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.alibaba:fastjson:1.1.54.android'
+    api 'com.google.zxing:core:3.4.0'
+    api 'com.google.zxing:javase:3.4.0'
 }
 
-sourceCompatibility = "1.7"
-targetCompatibility = "1.7"
+sourceCompatibility = "1.8"
+targetCompatibility = "1.8"

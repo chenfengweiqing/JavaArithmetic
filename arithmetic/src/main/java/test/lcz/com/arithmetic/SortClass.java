@@ -4,10 +4,53 @@ public class SortClass {
     private static int[] array = new int[]{1, 32, 0, 43, 134, 7564, 23, 54, 78};
 
     public static void main(String[] args) {
-        bubbleSort(array);
-        selectSort(array);
-        insertSort(array);
-        quickSort(array);
+//        bubbleSort(array);
+//        selectSort(array);
+//        insertSort(array);
+//        quickSort(array);
+//        long start = System.currentTimeMillis();
+//        long a = fibonacci(50);
+//        System.out.println("use time " + (System.currentTimeMillis() - start) + "  a " + a);
+
+//        long starttwo = System.currentTimeMillis();
+//        long two = fibonacciTwo(94);
+//        System.out.println("two use time " + (System.currentTimeMillis() - starttwo) + "  two " + two);
+        getArrowType(100, 0);
+        getArrowType(100, 100);
+        getArrowType(0, 100);
+        getArrowType(-100, 100);
+        getArrowType(-100, 0);
+        getArrowType(-100, -100);
+        getArrowType(0, -100);
+        getArrowType(100, -100);
+    }
+
+    //斐波那契数
+    private static long fibonacci(int n) {
+        if (n > 1) {
+            return fibonacci(n - 2) + fibonacci(n - 1);
+        } else {
+            return n;
+        }
+    }
+
+    //斐波那契数
+    private static long fibonacciTwo(int n) {
+        if (n > 1) {
+            long a, b = 1;
+            n--;
+            System.out.println("before  a  " + " n " + n);
+            a = n & 1;
+            System.out.println("end a  " + a);
+            n /= 2;
+            while (n-- > 0) {
+                a += b;
+                b += a;
+            }
+            return b;
+        } else {
+            return n;
+        }
     }
 
     //冒泡
@@ -162,5 +205,22 @@ public class SortClass {
                 System.out.print(num + " , ");
             }
         }
+    }
+
+    private static void getArrowType(double x, double y) {
+        if (x == 0 && y == 0) {
+            System.out.println(" ,vdsvdv  ");
+        }
+        double point1X = 320.0;
+        double point1Y = 0;
+        double vector = x * point1X + y * point1Y;
+        //向量的模乘
+        double sqrt = Math.sqrt((Math.abs(x * x) + Math.abs(y * y)) * (Math.abs(point1X * point1X) + Math.abs(point1Y * point1Y)));
+        //反余弦计算弧度
+        double radian = Math.acos(vector / sqrt);
+        //弧度转角度制
+        double degree = 180 * radian / Math.PI;
+        double aa = Math.atan2(y, x) * 180 / Math.PI;
+        System.out.println(" degree " + degree + "  aa " + aa);
     }
 }
