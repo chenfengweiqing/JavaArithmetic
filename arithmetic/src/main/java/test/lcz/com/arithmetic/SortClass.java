@@ -25,33 +25,6 @@ public class SortClass {
         getArrowType(100, -100);
     }
 
-    //斐波那契数
-    private static long fibonacci(int n) {
-        if (n > 1) {
-            return fibonacci(n - 2) + fibonacci(n - 1);
-        } else {
-            return n;
-        }
-    }
-
-    //斐波那契数
-    private static long fibonacciTwo(int n) {
-        if (n > 1) {
-            long a, b = 1;
-            n--;
-            System.out.println("before  a  " + " n " + n);
-            a = n & 1;
-            System.out.println("end a  " + a);
-            n /= 2;
-            while (n-- > 0) {
-                a += b;
-                b += a;
-            }
-            return b;
-        } else {
-            return n;
-        }
-    }
 
     //冒泡
     private static void bubbleSort(int[] array) {
